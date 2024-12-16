@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1018057238860",
+    "project_id": "fliplaptop-80b95",
+    "storage_bucket": "fliplaptop-80b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018057238860:android:f2a6b6b721a617f245c7e9",
+        "android_client_info": {
+          "package_name": "com.example.app_fliplaptop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018057238860-1324odo73av0fso7sdtca5rj0k68p9p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjQrX_d1xaL-J-W2QDRlehT1Hdp_0zTDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018057238860-1324odo73av0fso7sdtca5rj0k68p9p9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018057238860-h2vv3r3iluhmukei3r6qfnuqkbu9t33v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thesuitch.fliplaptop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

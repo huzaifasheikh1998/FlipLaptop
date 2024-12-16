@@ -1,0 +1,121 @@
+{
+    "status": "true",
+    "message": "Store Viewed",
+    "data": {
+        "id": 8,
+        "name": "danstore",
+        "location": "usa",
+        "image": "1692037914.jpg",
+        "description": "description",
+        "website_link": null,
+        "following": "0",
+        "follower": "0",
+        "productCount": "2",
+        "product": [
+            {
+                "id": "59",
+                "name": "laptoppy",
+                "price": 2323,
+                "qty": 33,
+                "size": [
+                    {
+                        "id": "1",
+                        "name": "11.6 inch"
+                    }
+                ],
+                "memory": {
+                    "id": "2",
+                    "name": "16GB"
+                },
+                "condition_type": "New",
+                "delivery_type": "Delivery",
+                "model": "core i7",
+                "hard_drive": {
+                    "id": "9",
+                    "name": "1GB SSD"
+                },
+                "color": {
+                    "id": "1",
+                    "name": "Coral Red"
+                },
+                "descriptions": "descriptions",
+                "created_at": "14 Aug 2023 - 19:03:22",
+                "discount": {
+                    "id": "4",
+                    "name": "independence",
+                    "type": "direct_amount",
+                    "percentage_target": "",
+                    "price": "100",
+                    "start_datetime": "0000-00-00 00:00:00",
+                    "end_datetime": "0000-00-00 00:00:00"
+                },
+                "productImage": [
+                    {
+                        "id": 52,
+                        "name": "1692039802322.jpg"
+                    },
+                    {
+                        "id": 53,
+                        "name": "1692039802849.jpg"
+                    },
+                    {
+                        "id": 54,
+                        "name": "1692039802448.jpg"
+                    },
+                    {
+                        "id": 55,
+                        "name": "1692039802347.jpg"
+                    }
+                ]
+            },
+            {
+                "id": "60",
+                "name": "dddd",
+                "price": 22,
+                "qty": 21,
+                "size": [
+                    {
+                        "id": "2",
+                        "name": "12 inch"
+                    }
+                ],
+                "memory": {
+                    "id": "3",
+                    "name": "24GB"
+                },
+                "condition_type": "New",
+                "delivery_type": "Local_Pick",
+                "model": "ddd",
+                "hard_drive": {
+                    "id": "9",
+                    "name": "1GB SSD"
+                },
+                "color": {
+                    "id": "1",
+                    "name": "Coral Red"
+                },
+                "descriptions": "ddd",
+                "created_at": "14 Aug 2023 - 22:05:23",
+                "discount": {
+                    "id": "5",
+                    "name": "ddsds",
+                    "type": "direct_amount",
+                    "percentage_target": "",
+                    "price": "11",
+                    "start_datetime": "0000-00-00 00:00:00",
+                    "end_datetime": "0000-00-00 00:00:00"
+                },
+                "productImage": [
+                    {
+                        "id": 56,
+                        "name": "1692050723280.jpg"
+                    },
+                    {
+                        "id": 57,
+                        "name": "1692050723641.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+}

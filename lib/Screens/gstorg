@@ -1,0 +1,57 @@
+{
+    "status": "true",
+    "message": "Store Viewed",
+    "data": {
+        "id": 4,
+        "name": "fan store",
+        "location": "3019 N 10th St McAllen Texas US",
+        "image": "",
+        "description": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "website_link": null,
+        "following": "0",
+        "follower": "0",
+        "productCount": "3",
+        "product": [
+            {
+                "id": "56",
+                "name": "name",
+                "price": 323,
+                "qty": 33,
+                "size": [
+                    {
+                        "id": "4",
+                        "name": "14 inch"
+                    }
+                ],
+                "memory": {
+                    "id": "1",
+                    "name": "12GB"
+                },
+                "condition_type": "New",
+                "delivery_type": "Local_Pick",
+                "model": "model name",
+                "hard_drive": {
+                    "id": "8",
+                    "name": "16GB SSD"
+                },
+                "color": {
+                    "id": "3",
+                    "name": "Midnight Blue"
+                },
+                "descriptions": "description",
+                "created_at": "11 Aug 2023 - 23:44:40",
+                "discount": null,
+                "productImage": [
+                    {
+                        "id": 45,
+                        "name": "1691797480370.jpg"
+                    },
+                    {
+                        "id": 46,
+                        "name": "1691797480560.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+}

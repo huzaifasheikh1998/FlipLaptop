@@ -1,0 +1,153 @@
+{
+    "status": "true",
+    "message": "User View Profile",
+    "data": {
+        "id": "97",
+        "name": "dan",
+        "email": "dan@yopmail.com",
+        "address": "",
+        "phone_number": "",
+        "image": "",
+        "gender": "",
+        "otp": "",
+        "my_store": [
+            {
+                "id": 8,
+                "name": "danstore",
+                "location": "usa",
+                "image": "1692037914.jpg",
+                "description": "description",
+                "website_link": null,
+                "following": "0",
+                "follower": "0",
+                "productCount": "1",
+                "product": [
+                    {
+                        "id": "59",
+                        "name": "laptoppy",
+                        "price": 2323,
+                        "qty": 33,
+                        "size": [
+                            {
+                                "id": "1",
+                                "name": "11.6 inch"
+                            }
+                        ],
+                        "memory": {
+                            "id": "2",
+                            "name": "16GB"
+                        },
+                        "condition_type": "New",
+                        "delivery_type": "Delivery",
+                        "model": "core i7",
+                        "hard_drive": {
+                            "id": "9",
+                            "name": "1GB SSD"
+                        },
+                        "color": {
+                            "id": "1",
+                            "name": "Coral Red"
+                        },
+                        "descriptions": "descriptions",
+                        "created_at": "14 Aug 2023 - 19:03:22",
+                        "discount": {
+                            "id": "4",
+                            "name": "independence",
+                            "type": "direct_amount",
+                            "percentage_target": "",
+                            "price": "100",
+                            "start_datetime": "0000-00-00 00:00:00",
+                            "end_datetime": "0000-00-00 00:00:00"
+                        },
+                        "productImage": [
+                            {
+                                "id": 52,
+                                "name": "1692039802322.jpg"
+                            },
+                            {
+                                "id": 53,
+                                "name": "1692039802849.jpg"
+                            },
+                            {
+                                "id": 54,
+                                "name": "1692039802448.jpg"
+                            },
+                            {
+                                "id": 55,
+                                "name": "1692039802347.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "my_order": {
+            "purchased_order": {
+                "all": []
+            },
+            "sell_order": {
+                "New": []
+            }
+        },
+        "list_product": [
+            {
+                "id": "59",
+                "name": "laptoppy",
+                "price": 2323,
+                "qty": 33,
+                "size": [
+                    {
+                        "id": "1",
+                        "name": "11.6 inch"
+                    }
+                ],
+                "memory": {
+                    "id": "2",
+                    "name": "16GB"
+                },
+                "condition_type": "New",
+                "delivery_type": "Delivery",
+                "model": "core i7",
+                "hard_drive": {
+                    "id": "9",
+                    "name": "1GB SSD"
+                },
+                "color": {
+                    "id": "1",
+                    "name": "Coral Red"
+                },
+                "descriptions": "descriptions",
+                "created_at": "14 Aug 2023 - 19:03:22",
+                "discount": {
+                    "id": "4",
+                    "name": "independence",
+                    "type": "direct_amount",
+                    "percentage_target": "",
+                    "price": "100",
+                    "start_datetime": "0000-00-00 00:00:00",
+                    "end_datetime": "0000-00-00 00:00:00"
+                },
+                "productImage": [
+                    {
+                        "id": 52,
+                        "name": "1692039802322.jpg"
+                    },
+                    {
+                        "id": 53,
+                        "name": "1692039802849.jpg"
+                    },
+                    {
+                        "id": 54,
+                        "name": "1692039802448.jpg"
+                    },
+                    {
+                        "id": 55,
+                        "name": "1692039802347.jpg"
+                    }
+                ]
+            }
+        ],
+        "shipping_address": [],
+        "payment_card": []
+    }
+}
